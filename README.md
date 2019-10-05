@@ -1,2 +1,2 @@
-# nemoodar
-Advanced Java-based diagram and drawing tool.
+# jute
+Jute is aiming to be an advanced Java-based diagram and drawing tool.
