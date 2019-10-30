@@ -28,3 +28,7 @@ build/*
 build/*
 .gradle/*
 .idea/*
+
+target/*
+*.class
+*/target/*
